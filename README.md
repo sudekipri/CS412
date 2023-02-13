@@ -1,2 +1,2 @@
 # CS412
-Social Media Bot Analysis
+Machine Learning - Social Media Bot Analysis
